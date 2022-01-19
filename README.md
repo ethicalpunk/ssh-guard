@@ -21,8 +21,7 @@ Demonstration
     Once a login has failed, this message shown below will be send to the Discord webhook.
 
 ![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/discord_msg_demo.png?raw=true)
-
+- - - -
     Once a successful login has been made, this message will be send to the Discord webhook.
     
 ![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/discord_msg_demo_2.png?raw=true)
-- - - -
