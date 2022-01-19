@@ -25,3 +25,8 @@ Demonstration
     Once a successful login has been made, this message will be send to the Discord webhook.
     
 ![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/discord_msg_demo_2.png?raw=true)
+- - - -
+
+    Once you setup in the configuration to block hosts when they exceed more then 4 failed logins, this message will be sent to the Discord webhook.
+
+![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/discord_msg_demo_block.png?raw=true)
