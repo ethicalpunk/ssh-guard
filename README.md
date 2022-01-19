@@ -7,6 +7,8 @@ Documentation
 =============
 
 ::
-  Configuring Options
+
+    python3 setup.py install
+
 
 ![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/config_documentation.png?raw=true)
