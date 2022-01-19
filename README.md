@@ -11,6 +11,6 @@ Documentation
     - BLOCK_IPS |-| This variable must be set as a boolean phenomenetic Value.
     - VAR_LOG |-| This variable defines where the SSH log is located. By default this will be /var/log/auth.log.
     - NAME_OF_SERVER |-| This variable is optional and defines the name of the server to be shown in the Discord embed.
-    - DISCORD_WEBHOOK_URL |-| This variable is where you define the discord webhook URL. This variable is needed for this program to work properly.
+    - DISCORD_WEBHOOK_URL |-| This variable is where you define the discord webhook URL.
 
 ![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/config_documentation.png?raw=true)
