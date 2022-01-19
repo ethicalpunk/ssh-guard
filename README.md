@@ -8,7 +8,7 @@ Documentation
 
     Configuring Options:
     
-    - BLOCK_IPS
+    - BLOCK_IPS # This variable must be set as a boolean phenomenetic Value.
     - VAR_LOG
     - NAME_OF_SERVER
     - DISCORD_WEBHOOK_URL
