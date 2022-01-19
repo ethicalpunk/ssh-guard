@@ -8,9 +8,9 @@ Documentation
 
     Configuring Options:
     
-    - BLOCK_IPS || This variable must be set as a boolean phenomenetic Value.
-    - VAR_LOG
-    - NAME_OF_SERVER
-    - DISCORD_WEBHOOK_URL
+    - BLOCK_IPS |-| This variable must be set as a boolean phenomenetic Value.
+    - VAR_LOG |-| This variable defines where the SSH log is located. By default this will be /var/log/auth.log 
+    - NAME_OF_SERVER |-|
+    - DISCORD_WEBHOOK_URL |-| 
 
 ![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/config_documentation.png?raw=true)
