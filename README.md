@@ -6,7 +6,7 @@ ___Once a successful SSH connection has been made, you will also be notified on 
 Documentation
 =============
 
-    Configuration Options:
+    Configuration Options: (FOUND_IN: sshguard.py)
     
     - BLOCK_IPS |-| This variable must be set as a boolean phenomenetic Value.
     - VAR_LOG |-| This variable defines where the SSH log is located. By default this will be /var/log/auth.log.
