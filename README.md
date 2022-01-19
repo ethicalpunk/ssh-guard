@@ -14,3 +14,9 @@ Documentation
     - DISCORD_WEBHOOK_URL |-| This variable is where you define the discord webhook URL.
 
 ![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/config_documentation.png?raw=true)
+
+Demonstration
+=============
+
+**Once a login has failed, this message shown below will be send to the Discord webhook.
+![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/discord_msg_demo.png?raw=true)
