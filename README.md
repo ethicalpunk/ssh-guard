@@ -7,5 +7,9 @@ Documentation
 =============
 
     Configuring Options
+    BLOCK_IPS
+    VAR_LOG
+    NAME_OF_SERVER
+    DISCORD_WEBHOOK_URL
 
 ![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/config_documentation.png?raw=true)
