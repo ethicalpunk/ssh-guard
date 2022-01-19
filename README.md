@@ -6,9 +6,6 @@ ___Once a successful SSH connection has been made, you will also be notified on 
 Documentation
 =============
 
-::
-
-    python3 setup.py install
-
+    Configuring Options
 
 ![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/config_documentation.png?raw=true)
